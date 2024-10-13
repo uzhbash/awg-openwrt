@@ -16,9 +16,9 @@ jobs:
             pkgarch: mips_24kc
             target: ath79
             subtarget: nand
-            vermagic: "5c9be91b90bda5403fe3a7c4e8ddb26f"
+            vermagic: "0c7c0e91d2a760619e4257795a6fb5c6"
           - tag: "23.05.0"
-            pkgarch: mipsel_24kc
+            pkgarch: mips_24kc
             target: ramips
             subtarget: mt7621
             vermagic: "9c242f353867f49a96054ff8c9f2c460"
